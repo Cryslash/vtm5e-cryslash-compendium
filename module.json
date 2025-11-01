@@ -1,0 +1,53 @@
+{
+  "id": "vtm5e-cryslash-compendium",
+  "title": "VTM5e-Cryslash-Compendium",
+  "description": "Compenium em pt-br para vampiro a máscara 5 edição.",
+  "version": "1.0.0",
+
+  "authors": [
+    {
+      "name": "Crystofher Lins",
+      "email": "",
+      "url": "https://portfolio-react-five-tawny.vercel.app/"
+    }
+  ],
+
+  "compatibility": {    
+    "verified": "13.350"    
+  },
+
+  "esmodules": [""],  
+
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "readme": "README.md",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "packs": [
+    {
+      "label": "VTM5e-Cryslash-Compendium",
+      "type": "Item",
+      "name": "extras",
+      "path": "packs/vtm5e-cryslash-compendium",
+      "system": "vtm5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "vtm5e",
+        "type": "system",
+        "compatibility": {          
+          "verified": "5.2.2"
+        }
+      }
+    ]
+  }
+}
