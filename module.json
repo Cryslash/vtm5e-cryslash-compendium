@@ -6,6 +6,13 @@
   "compatibility": {    
     "verified": "13.350"    
   },
+  "authors": [
+    {
+      "name": "Crystofher Lins",
+      "email": "",
+      "url": "https://portfolio-react-five-tawny.vercel.app/"
+    }
+  ],
   "relationships": {
     "systems": [
       {
