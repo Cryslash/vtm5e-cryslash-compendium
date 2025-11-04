@@ -42,7 +42,7 @@
     {
       "label": "Sangue",
       "type": "RollTable",
-      "name": "extras",
+      "name": "sangue",
       "path": "packs/sangue",
       "system": "vtm5e",
       "ownership": {
